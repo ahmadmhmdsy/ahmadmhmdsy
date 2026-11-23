@@ -14,6 +14,7 @@ ML engineer working on **Arabic NLP** and **LLM agent tooling**. I train small m
 | [**smolagents-ts**](https://github.com/ahmadmhmdsy/smolagents-ts) | Independent, unofficial TypeScript port of Hugging Face smolagents | 200+ commits · large test suite · CI |
 | [**localpdf-studio**](https://github.com/ahmadmhmdsy/localpdf-studio) | Browser-only PDF studio: merge, split, edit, annotate, convert, OCR. Files never leave the device | React + TypeScript · tested · CI |
 | [**sigha**](https://github.com/ahmadmhmdsy/sigha) | Offline, privacy-first file converter for Android: 48 formats converted on the phone, no account/ads/analytics, English + Arabic RTL | Kotlin + Compose · 155 JVM tests · signed QA release |
+| [**sabeel-steps**](https://github.com/ahmadmhmdsy/sabeel-steps) | Offline, ad-free step counter and walk/run tracker for Android: no INTERNET permission, no account, ads or analytics, read-only Health Connect, English + Arabic RTL | Kotlin + Compose · 205 JVM tests · signed APK/AAB · [site](https://ahmadmhmdsy.github.io/sabeel-steps/) |
 | [**agent-context-template**](https://github.com/ahmadmhmdsy/agent-context-template) | Drop-in context pack for coding agents, with a validator that fails when the docs drift | One entry point, scoped rules, script-checked |
 
 ## More work
