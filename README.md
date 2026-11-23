@@ -13,6 +13,7 @@ ML engineer working on **Arabic NLP** and **LLM agent tooling**. I train small m
 | [**tashkeel-nano**](https://github.com/ahmadmhmdsy/tashkeel-nano) | Arabic diacritization with a 1.08M-parameter character Transformer: training pipeline, evaluation harness, PyTorch + ONNX weights, demos | DER 3.78 on SadeedDiac-25 · [models](https://huggingface.co/ahmadsy/tashkeel-nano-1p1m) · [live demo](https://huggingface.co/spaces/ahmadsy/tashkeel-compare) |
 | [**smolagents-ts**](https://github.com/ahmadmhmdsy/smolagents-ts) | Independent, unofficial TypeScript port of Hugging Face smolagents | 200+ commits · large test suite · CI |
 | [**localpdf-studio**](https://github.com/ahmadmhmdsy/localpdf-studio) | Browser-only PDF studio: merge, split, edit, annotate, convert, OCR. Files never leave the device | React + TypeScript · tested · CI |
+| [**sigha**](https://github.com/ahmadmhmdsy/sigha) | Offline, privacy-first file converter for Android: 48 formats converted on the phone, no account/ads/analytics, English + Arabic RTL | Kotlin + Compose · 155 JVM tests · signed QA release |
 | [**agent-context-template**](https://github.com/ahmadmhmdsy/agent-context-template) | Drop-in context pack for coding agents, with a validator that fails when the docs drift | One entry point, scoped rules, script-checked |
 
 ## More work
